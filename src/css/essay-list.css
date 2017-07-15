@@ -1,0 +1,57 @@
+#essay-list .content-block {
+  padding: 0;
+  margin: 44px 0;
+}
+
+#essay-list .card {
+  box-shadow: none;
+  margin: 10px 0;
+}
+
+#essay-list .card-header {
+  padding-bottom: 0;
+  min-height: 0;
+}
+
+#essay-list .card-header p {
+  text-align: center;
+  margin: 0;
+  width: 100%;
+  color: gray;
+  font-size: 12px;
+}
+
+#essay-list .card-content-inner {
+  padding: 0 15px;
+}
+
+#essay-list .card-content p {
+  margin: 10px 0;
+}
+
+#essay-list .card-content .essay-item-title {
+  font-size: 20px;
+  color: black;
+}
+
+#essay-list .card-content .essay-item-author {
+  font-size: 12px;
+}
+
+#essay-list .card-content .essay-item-brief {
+  font-size: 14px;
+}
+
+#essay-list .card-content img {
+  width: 100%;
+}
+
+#essay-list .card-footer {
+  min-height: 0;
+}
+
+#essay-list .card-footer p {
+  margin: 0;
+  font-size: 12px;
+  color: gray;
+}
